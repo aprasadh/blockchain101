@@ -1,2 +1,2 @@
-# blockchain101
+# Blockchain Basics
 Blockchain Basics
